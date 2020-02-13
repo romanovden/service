@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Service\\": "vendor/service/core",
+      "App\\": "app",
+      "Config\\": "config"
+    }
+  },
+  "require": {
+    "gabordemooij/redbean": "dev-master"
+  }
+}
